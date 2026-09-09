@@ -239,3 +239,6 @@ This repository serves as the official landing page for Photo Editor 10. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Photo Editor 10 today!**
+
+---
+**Last updated:** 2026-09-09 22:21:59 UTC
